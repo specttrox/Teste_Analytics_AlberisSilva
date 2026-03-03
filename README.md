@@ -21,7 +21,7 @@ Teste_Analytics_AlberisSilva/
 └── graficos/
     ├── 01_tendencia_faturamento_total.png <- Gráfico de tendência (Total).
     ├── 02_tendencia_faturamento_produtos.png <- Gráfico de tendência (Por Produto).
-    └── 03_boxplot_precos_celular.png      <- Gráfico estatístico de ticket médio.
+    └── 03_boxplot_precos_celular.png      <- Gráfico estatístico de ticket médio.´´´
 
 ## Dependências Necessárias
 
